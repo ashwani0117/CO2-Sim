@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "power",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "CORE GREEN SUGAR" }, "geometry": { "type": "Point", "coordinates": [ 77.0825, 16.5471 ] } },
+{ "type": "Feature", "properties": { "name": "GULBARGA CEMENT" }, "geometry": { "type": "Point", "coordinates": [ 77.1325, 17.1084 ] } },
+{ "type": "Feature", "properties": { "name": "KAKATIYA TPP" }, "geometry": { "type": "Point", "coordinates": [ 79.8265, 18.3835 ] } },
+{ "type": "Feature", "properties": { "name": "KALLUR GRINDING" }, "geometry": { "type": "Point", "coordinates": [ 77.4389, 17.3821 ] } },
+{ "type": "Feature", "properties": { "name": "RAICHUR" }, "geometry": { "type": "Point", "coordinates": [ 77.3422, 16.3532 ] } },
+{ "type": "Feature", "properties": { "name": "RAICHUR STEEL" }, "geometry": { "type": "Point", "coordinates": [ 77.3608, 16.3027 ] } },
+{ "type": "Feature", "properties": { "name": "RAJASHREE CEMENT" }, "geometry": { "type": "Point", "coordinates": [ 77.1749, 17.1427 ] } },
+{ "type": "Feature", "properties": { "name": "R_GUNDEM - B" }, "geometry": { "type": "Point", "coordinates": [ 79.4494, 18.7695 ] } },
+{ "type": "Feature", "properties": { "name": "R_GUNDEM STPS" }, "geometry": { "type": "Point", "coordinates": [ 79.456, 18.7572 ] } },
+{ "type": "Feature", "properties": { "name": "SINGARENI TPP" }, "geometry": { "type": "Point", "coordinates": [ 79.5748, 18.8372 ] } },
+{ "type": "Feature", "properties": { "name": "SITAPURAM POWER LIMITED" }, "geometry": { "type": "Point", "coordinates": [ 80.0407, 16.8301 ] } },
+{ "type": "Feature", "properties": { "name": "VASAVADATTA CEMENT" }, "geometry": { "type": "Point", "coordinates": [ 77.293, 17.1605 ] } },
+{ "type": "Feature", "properties": { "name": "WADI CEMENT PLANT" }, "geometry": { "type": "Point", "coordinates": [ 76.9775, 17.0552 ] } },
+{ "type": "Feature", "properties": { "name": "YERMARUS TPP" }, "geometry": { "type": "Point", "coordinates": [ 77.3568, 16.2949 ] } }
+]
+}
